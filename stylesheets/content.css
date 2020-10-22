@@ -1,0 +1,41 @@
+h1, h2, h3, h4, h5, p, article h2, article p { font-family: 'Roboto Mono'; font-style: normal; margin-left: 72px; margin-bottom: 0;}
+h2 {width: 828px; font-size: 64px; font-weight: 500; margin-top: 63px; line-height: 84px;
+}
+h2 + p {width: 750px; font-size: 24px; font-weight: 300; margin-top: 26px; line-height: 32px;
+}
+article h2 {width: 828px; font-size: 64px; font-weight: 500; margin-top: 84px; line-height: 84px;
+}
+article h2 + p { width: 698px; font-size: 24px; font-weight: 300; margin-top: 26px; line-height: 32px;
+}
+h3 { width: 636px; font-size: 48px; font-weight: normal; margin-top: 26px; line-height: 63px;
+}
+h3 + p { width: 698px; font-size: 24px; font-weight: 300; margin-top: 26px; line-height: 32px;
+}
+h3 + p + p { width: 698px; font-size: 24px; font-weight: 300; margin-top: 26px; line-height: 32px;
+}
+h3 + p + p + p { width: 698px; font-size: 24px; font-weight: 300; margin-top: 26px; line-height: 32px;
+}
+section { display: flex; justify-content: space-between;
+}
+section div { width: 50%;
+}
+section p { width: 530px; font-size: 24px; font-weight: 300; line-height: 32px;
+}
+section .second p { margin-left: 0;
+}
+section + img { position: relative; width: 1136px; height: 834px; left: 72px; margin-top: 26px;
+}
+.notes { position: flex; width: 698px; margin-left: 185px; margin-top: 90px;
+}
+.notes p { font-size: 24px; font-weight: 300; margin-top: 52px; line-height: 32px; margin-left: 0;
+}
+.notes p + p {margin-bottom: 95px;
+}
+.notes_2 { position: flex; width: 698px; margin-left: 185px; margin-top: 90px;
+}
+.notes_2 p { font-size: 24px; font-weight: 300; margin-top: 52px; line-height: 32px; margin-left: 0;
+}
+.notes_2 p + p { margin-bottom: 90px;
+}
+h5 {width: 274px; font-size: 24px; font-weight: 300; margin-top: 880px;
+}
