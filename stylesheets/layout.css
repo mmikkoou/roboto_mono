@@ -1,0 +1,94 @@
+/* section:nth-of-type(2) {
+  display: flex; justify-content: flex-start;
+}
+.table {
+  width: 268px;
+  font-size: 24px;
+  font-weight: normal;
+  margin-left: 155px;
+}
+.table_2 {
+  width: 402px;
+  font-size: 24px;
+  font-weight: normal;
+}
+.table_3 {
+  width: 400px;
+  font-size: 24px;
+  font-weight:normal;
+}
+.table h4 {
+  margin-top: 62px;
+  margin-left: 0;
+  margin-bottom: 76px;
+}
+.table p {
+  width: 268px;
+  font-style: italic;
+  font-weight: 300;
+  margin-left: 0;
+  margin-bottom: 69px;
+}
+.table_2 h4 {
+  margin-top: 46px;
+  margin-left: 106px;
+  margin-bottom: 74px;
+  line-height: 32px;
+}
+.table_2 p {
+  width: 47px;
+  font-style: italic;
+  font-weight: 300;
+  margin-left: 192px;
+  margin-bottom: 101px;
+}
+.table_3 h4 {
+  margin-top: 62px;
+  margin-left: 99px;
+  margin-bottom: 90px;
+  line-height: 32px;
+}
+.table_3 p {
+  width: 141px;
+  font-style: italic;
+  font-weight: 300;
+  margin-left: 137px;
+  margin-bottom: 101px;
+}
+.table_3 p + p {
+  width: 141px;
+  font-style: italic;
+  font-weight: 300;
+  margin-left: 123px;
+  margin-bottom: 101px;
+}
+.table_3 p + p + p, p + p + p + p {
+  width: 141px;
+  font-style: italic;
+  font-weight: 300;
+  margin-left: 158px;
+  margin-bottom: 101px;
+}
+.table_3 p + p + p + p + p {
+  width: 141px;
+  font-style: italic;
+  font-weight: 300;
+  margin-left: 123px;
+  margin-bottom: 101px;
+} */
+
+.sputnick {
+  position: absolute;
+  left: 908px;
+  top: 2173px;
+}
+.planeta{
+  position: absolute;
+  left: 908px;
+  top: 3369px;
+}
+.img {
+  position: absolute;
+  left: 0;
+  top: 4987px;
+}
